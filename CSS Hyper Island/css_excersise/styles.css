@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "RobotoCondensed", sans-serif;
+    src: url(RobotoCondensed-Regular.ttf);
+}
+
+h1{
+    font-family: "RobotoCondensed", sans-serif;
+}
+
+body{
+    background-color: beige;
+}
+
+p{
+    font-size: 16px;
+}
+
+ol{
+    color: orange;
+}
+
+em{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+} 
+
+img{
+    border-radius: 12px;
+}
+
+.subheaders{
+    color: blue;
+}
+
+#intro-text{
+    font-size: 20px;
+}
+
+#last-div{
+    margin: 5px;
+    padding: 5px;
+    width: 50%;
+    height: 500px;
+}
