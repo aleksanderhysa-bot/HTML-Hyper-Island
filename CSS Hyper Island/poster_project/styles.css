@@ -57,7 +57,7 @@ body{
   
   width: 100%;   
   text-align: center; 
-  background-image: linear-gradient(#C2FF9E,#733E0A, #C2FF9E);
+  font-size: 25px;
   height: 150px;
   padding-top: 100px;
 
@@ -105,5 +105,5 @@ a:active{
 }
 
 #white-color{
-    color: beige;
+    color: black;
 }
